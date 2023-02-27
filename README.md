@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @devFarhan3
 - 👀 I’m interested in coding , playing music.
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning react.
+- 📫 How to reach me ... https://devfarhan.netlify.app/
 
-<!---
-devFarhan3/devFarhan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am a professional front-end developer with 2+ years of experience. My expertise is focused on HTML5, CSS3, jQuery, Bootstrap, and responsive coding. Very attentive to details, able to multitask and juggle multiple pressing projects simultaneously. On top of the latest trends and technologies. I have lots of experience in PSD/XD/Figma design HTML/CSS coding, custom themes as well as per the design requirement. I consider myself a person who follows modern web development practices and new technologies; a person who never stops learning
+
