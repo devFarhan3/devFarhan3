@@ -27,7 +27,7 @@ As a Front-end Developer with 3 years of experience, I specialize in turning des
 ✔ Figma to HTML
 ✔ XD to HTML
 ✔ HTML, CSS, BOOTSTRAP and JavaScript
-✔ Fix Responsive issue of any types website
+✔ Fix Responsive issue of any type website
 ======================================
 
 👉 Why Choose Me?
@@ -39,7 +39,7 @@ As a Front-end Developer with 3 years of experience, I specialize in turning des
 
 I am dedicated to completing projects on time and within budget, ensuring clear communication and exceptional customer service throughout the entire process.
 
-Feel free to reach out if you're in need of a skilled and dependable Front-End Developer for your upcoming project!
+Feel free to reach out if you need a skilled and dependable Front-End Developer for your upcoming project!
 
 Best Regards,
 Farhan Aslam
