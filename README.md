@@ -9,8 +9,8 @@ As a Front-end Developer with 3 years of experience, I specialize in turning des
 
 👉 MY CORE EXPERTISE:
 
-✔ Expertise in converting Figma into Html CSS and Bootstrap and react js components.
-✔ Proficiency in using modern web development frameworks such as React js and Next js.
+✔ Expertise in converting Figma into HTML CSS, Bootstrap, and React.js components.
+✔ Proficiency in using modern web development frameworks such as React.js and Next.js.
 ✔ Strong knowledge of Html, CSS, Tailwind CSS, Bootstrap, and JavaScript
 ✔ Experience in developing responsive and mobile-friendly web applications
 ✔ Knowledge of the Git version control system
