@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devFarhan3
 - 👀 I’m interested in coding , playing music.
 - 🌱 I’m currently learning react.
-- 📫 How to reach me ... https://farhanaslam.net/
+- 📫 How to reach me ... https://designerfarhan.netlify.app/
 
 🔎 Are you looking for a Professional Website designer or front-end web developer If so, then you've come to the right place!
 
@@ -39,7 +39,7 @@ As a Front-end Developer with 3 years of experience, I specialize in turning des
 
 I am dedicated to completing projects on time and within budget, ensuring clear communication and exceptional customer service throughout the entire process.
 
-Feel free to reach out if you need a skilled and dependable Front-End Developer for your upcoming project!
+Feel free to contact me if you need a skilled and dependable Front-End Developer for your upcoming project!
 
 Best Regards,
 Farhan Aslam
